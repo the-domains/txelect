@@ -1,0 +1,14 @@
+layout_spectrum: 0.8369176
+color:
+  saturation: 0.1989247
+  lightness: 1
+  brandStrength: 0.281362
+  brandColors:
+    - '#FFFFFF'
+    - '#42B3FB'
+    - '#000000'
+    - '#858E99'
+    - '#C7C7CC'
+  rhythmicContrast: 1
+typography_spectrum: 0.8637993
+name: TxElect
